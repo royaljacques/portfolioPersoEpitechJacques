@@ -1,0 +1,35 @@
+main{
+    margin-top: 5vh;
+}
+.contain{
+    background: linear-gradient(to right, #2d2c2c, #594646);
+}
+section{
+    background: wheat ;
+    margin-top: 4vh;
+    border: solid black;
+    border-radius: 50px;
+    height: 100%;
+    box-shadow: blue 0 0 10px;
+}
+section > h2 {
+    text-align: center;
+}
+.containerSection{
+    margin-right: 15%;
+    margin-left: 15%;
+    text-align: center;
+}
+.img-laravek{
+    margin-top: 2vh;
+}
+.img-code-lra{
+    border-radius: 55px;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+.symphonie-backround {
+    height: 80vh;
+    width: 100%;
+}
